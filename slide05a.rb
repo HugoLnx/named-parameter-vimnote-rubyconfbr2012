@@ -1,0 +1,3 @@
+#
+# Em Singleton classes também ;)
+#
